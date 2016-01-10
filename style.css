@@ -1,0 +1,17 @@
+h2, h1
+{
+  text-align: center;
+  border: 5px solid #1f004d;
+}
+h1{
+  font-size: 3em;
+  font-family:fantasy;
+}
+img {
+  width: 200%;
+  border: 3px solid #1f004d;
+}
+p {
+  text-align: left;
+  width: 600px;
+}
